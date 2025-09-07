@@ -935,7 +935,7 @@ h6 {
     .about-us-content .section-title h2::after {
         text-align: center;
         /* Center about us title on mobile */
-        left: 50%;
+        left: 58%;
         transform: translateX(-50%);
     }
 
@@ -1030,4 +1030,5 @@ h6 {
     .discount-offer-section .lead {
         font-size: 1.2rem;
     }
+
 }
